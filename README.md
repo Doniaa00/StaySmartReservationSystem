@@ -50,7 +50,7 @@ This repository contains:
 **Class Diagram:**  
 <img width="404" height="304" alt="image" src="https://github.com/user-attachments/assets/eb651962-6ab0-41aa-959b-9a6b5fe9062a" />
 
-## Class Diagram Overview (Optional)
+## Class Diagram Overview 
 
 | Class | Attributes | Methods (optional) |
 |-------|-----------|------------------|
@@ -75,28 +75,11 @@ This repository contains:
 4. Run `insert_sample_data.sql` to populate tables with sample data.  
 5. Explore tables, relationships, and run queries to test the system.  
 
----
 
-## Folder Structure
-
-Stay Smart Hotel/
-│
-├─ SQL/
-│ ├─ create_tables.sql
-│ └─ insert_sample_data.sql
-│
-├─ Diagrams/
-│ ├─ ER_Diagram.png
-│ ├─ EER_Diagram.png
-│ └─ Class_Diagram.png
-│
-└─ README.md
-
-
----
 
 ## Notes
 - This project focuses on the **database design** for hotel management.  
 - The web interface for the system will be developed in the future.  
 - Designed to be **scalable, modular, and easily maintainable**.
+
 
