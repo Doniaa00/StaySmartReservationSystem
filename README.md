@@ -39,15 +39,16 @@ This repository contains:
 ## Diagrams
 
 **ER Diagram:**  
-![ER Diagram](Diagrams/ER_Diagram.png)  
+
+<img width="1156" height="607" alt="image" src="https://github.com/user-attachments/assets/587d5d95-d0fb-41b2-8bdc-10e87b6e1938" />
 
 **EER Diagram:**  
-![EER Diagram](Diagrams/EER_Diagram.png)  
+<img width="475" height="580" alt="image" src="https://github.com/user-attachments/assets/88e739f8-d0d9-4c5a-a1f7-c566583953b3" />
+
+
 
 **Class Diagram:**  
-![Class Diagram](Diagrams/Class_Diagram.png)  
-
----
+<img width="404" height="304" alt="image" src="https://github.com/user-attachments/assets/eb651962-6ab0-41aa-959b-9a6b5fe9062a" />
 
 ## Class Diagram Overview (Optional)
 
@@ -98,3 +99,4 @@ Stay Smart Hotel/
 - This project focuses on the **database design** for hotel management.  
 - The web interface for the system will be developed in the future.  
 - Designed to be **scalable, modular, and easily maintainable**.
+
